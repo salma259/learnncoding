@@ -1,0 +1,6 @@
+Oct 13 2020 16:20:01
+{"Number":2,"Message":"rmdir(C:\\xampp\\htdocs\\learnncoding\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\2goi038x4nkl): Directory not empty","File":"C:\\xampp\\htdocs\\learnncoding\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\filesystem\\class-ai1wm-directory.php","Line":72}
+
+Oct 13 2020 16:20:08
+{"Number":2,"Message":"filesize(): stat failed for C:\\xampp\\htdocs\\learnncoding\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\2goi038x4nkl\\localhost-learnncoding-20201013-161955-ubxk5p.wpress","File":"C:\\xampp\\htdocs\\learnncoding\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-archiver.php","Line":231}
+
